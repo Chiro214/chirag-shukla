@@ -1,0 +1,9 @@
+# Antigravity & internal generator metadata
+.file-versions/
+.od-frames/
+.od-skills/
+*.artifact.json
+
+# OS files
+.DS_Store
+Thumbs.db
